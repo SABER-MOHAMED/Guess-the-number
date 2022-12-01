@@ -47,18 +47,5 @@ A JavaScript Guess the number game from https://bit.ly/3PWInPW
    <hr>
 </div>
 
-
-## Contributors <a name = "Contributors"></a>
-
-<table>
-  <tr>
-    <td align="center">
-    <a href="https://github.com/SABER-MOHAMED" target="_black">
-    <img src="[https://avatars.githubusercontent.com/u/76125650?v=4](https://avatars.githubusercontent.com/u/95752534?s=400&u=8792042b9e7b0331476075492aebac650faec0f3&v=4)" width="150px;" alt="Saber Mohamed"/>
-    <br />
-    <sub><b>Saber Mohamed</b></sub></a>
-    </td>
-  </tr>
- </table>
-
-## License <a name = "license"></a>
+---
+made with ❤ by @SABER.

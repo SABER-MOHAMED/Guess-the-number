@@ -34,7 +34,7 @@ A JavaScript Guess the number game from https://bit.ly/3PWInPW
 - **JavaScript**
 
 ## Live Demo <a name = "demo"></a>
-<a href="https://github.com/SABER-MOHAMED/Guess-My-Number-JS" >Here</a>
+<a href="https://guess-numberss.netlify.app" >Here</a>
 
 ## 📷 Demo Screenshots <a name = "Screenshots"></a>
 
@@ -48,4 +48,4 @@ A JavaScript Guess the number game from https://bit.ly/3PWInPW
 </div>
 
 ---
-made with ❤ by @SABER.
+made with ❤ by @msaber.io
